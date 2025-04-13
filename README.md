@@ -9,3 +9,4 @@ Load CT data and generate coresponding 3D grids of values to form CT image. Also
 # Digital elevation maps
 Plot a digital elevation map (DEM) for the Grand Canyon as a 3D surfacecompute, and generated surfaces represented as a mesh of triangle
 ![image](https://github.com/hezp-will/Data-Visualization/blob/main/Sample%20Visualizations/3D%20elevaton%20plot%20of%20downsampled%20Grand%20Canyon.png)
+![image](https://github.com/hezp-will/Data-Visualization/blob/main/Sample%20Visualizations/Digital%20elevation%20map.png)
